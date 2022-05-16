@@ -12,7 +12,7 @@ public class linearSearchExample {
         if(arr[i]==target){
           return i;
         }
-        return -1;
       }
+      return -1;
     }
 }
